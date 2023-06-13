@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @varrebharath
 - 👀 I’m interested in front end developing
-- 🌱 I’m currently learning html,css,javascript,angular
+- 🌱 I’m currently learning html,css,javascript,angular and also react
 - 📫 How to reach me @bharathvarre2612@gmail.com
 
 <!---
